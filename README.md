@@ -63,3 +63,13 @@ Copy this code and paste it in the index.html file to make your changes. Try and
 # Congratulations!
 
 Congratulation! You just made your first pull request and if it gets merged, you can view it using the Link provided above!
+
+# Code of Conduct
+
+<p align="center"><a href="https://github.com/nilisha-jais/Musicophilia/blob/main/CODE_OF_CONDUCT.md"><img width=35% src="https://media.giphy.com/media/qHRwTyhWIj4UU/200w_d.gif"></a></p>
+
+# License 
+
+<p align="center"><a href="https://github.com/nilisha-jais/Musicophilia/blob/main/LICENSE"><img width=35% src="https://media.giphy.com/media/xUPGcJGy8I928yIlAQ/giphy.gif"></a></p>
+
+<div align="center">
